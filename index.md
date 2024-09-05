@@ -60,13 +60,20 @@ I am interested in developing statistical methodology and theory in machine lear
 
 ### Instructor
 
-- ISyE 3030 Basic Statistical Methods, 38 students, CIOS score: Inclusive 4.9/5.0, Overall effectiveness 4.6/5.0, Summer 2023.
+- ISyE 3030 Basic Statistical Methods, Georgia Institute of Technology, Summer 2023. (38 students, CIOS score: Inclusive 4.9/5.0, Overall effectiveness 4.6/5.0).
 
 
-- 
+- UGPH-GU 20 001 Biostatistics for Public Health, New York University, Fall 2024.
 
 
 ### Teaching Assistant
+
+- Co-lead GTA of ISyE 7406 Data Mining and Statistical Learning for Online Master Analytic Program, with 200-400 students, Spring 2024, Fall 2023, Spring 2023, Fall 2022, Spring 2022.
+- GTA of ISyE 6412 Theoretical Statistics, with 30-50 students, Fall 2021, 2020.
+- GTA of ISyE 4031 Regression/Forecasting, with 69 students, Summer 2020.
+- GTA of ISyE 3232 Stochastic Manufacturing and Service Systems, with 37 students, Spring 2020.
+- GTA of ISyE 6805 Reliability Engineering, with 7 students, Fall 2019.
+
 
 
 {% include_relative _includes/services.md %}
