@@ -29,10 +29,13 @@ I am interested in developing statistical methodology and theory in machine lear
 
 <div style="font-size: 10px;">#: alphabetic order </div>
 
-### Statistical Methodology and Theory
+### Journal Articles
 
 - Cai, T.<sup>#</sup>, Huang, F.<sup>#</sup>, Nakada, R.<sup>#</sup>, Zhang, L.<sup>#</sup>, **Zhou, D.<sup>#</sup>**
 _Contrastive Learning on Multimodal Analysis of Electronic Health Records. (2024+)_ [[arXiv](https://arxiv.org/abs/2403.14926)]
+
+- **Q. Xu**, Y. Mei and G. V. Moustakides, “Optimum multi-stream sequential change-point detection with sampling control”, IEEE Transactions on Information Theory, vol. 67, no. 11, pages 7627--7636, 2021.
+
 
 - Liang, J.\*, Liu, Y.\*, **Zhou, D.**, Zhang, S., Lu, J. _The Wreaths of Coherence: Uniform Graph Feature Selection with False Discovery Rate Control. (2024+)_ [[arXiv](https://arxiv.org/abs/2403.12284)]
 
