@@ -6,8 +6,7 @@ layout: homepage
 
 I am a Postdoctoral Associate in the School of Global Public Health  at [New York University](https://publichealth.nyu.edu/).  I  received a Ph.D in Industrial Engineering with concentration on Statistics 2024 from Georgia Institute of Technology, advised by Prof. Yajun Mei and Prof. Jianjun Shi. Before that, I received my B.S. in Statistics from the University of Science and Technology of China (USTC) in 2019, advised by Prof. Zemin Zheng. 
 
-### To Prospective Students: 
-I am seeking self-motivated students to join my research group or collaborate with me. If you are interested in collaborating, please email me your CV along with a brief introduction about yourself.
+**I am on the 2024-2025 academic job market and would be happy to discuss any opportunities!**
 
 
 
