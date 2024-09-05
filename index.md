@@ -31,12 +31,16 @@ I am interested in developing statistical methodology and theory in machine lear
 
 ### Journal Articles
 
-- Cai, T.<sup>#</sup>, Huang, F.<sup>#</sup>, Nakada, R.<sup>#</sup>, Zhang, L.<sup>#</sup>, **Zhou, D.<sup>#</sup>**
-_Contrastive Learning on Multimodal Analysis of Electronic Health Records. (2024+)_ [[arXiv](https://arxiv.org/abs/2403.14926)]
 
 - **Q. Xu**, Y. Mei and G. V. Moustakides, “Optimum multi-stream sequential change-point detection with sampling control”, IEEE Transactions on Information Theory, vol. 67, no. 11, pages 7627--7636, 2021.
 - **Q. Xu** and Y. Mei, “Asymptotic optimality theory for active quickest detection with unknown post-change parameters,” Sequential Analysis, vol. 42, no. 2, pages 150-181, 2023.
 - E. Fang<sup>#</sup>, Y. Mei<sup>#</sup>, Y. Shi<sup>#</sup>, **Q. Xu<sup>#</sup>**, and T. Zhao<sup>#</sup>, “Pivotal estimation of linear discriminant analysis in high dimensions,” Journal of Machine Learning Research, vol. 24, pages 1-45, 2023.
+- O. Canbek, **Q. Xu**, Y. Mei, N. R. Washburn, and K. E. Kurtis, “Predicting the rheology of limestone calcined clay cements (LC^3): Linking composition and hydration kinetics to yield stress through machine learning,” Cement and Concrete Research, vol.160, 2022.
+- **Q. Xu**, Y. Mei and J. Shi, “Active quickest detection with compensation coefficients,” major revision, submitted to Sequential Analysis in February 2024.
+- **Q. Xu<sup>#</sup>**, H. Tian<sup>#</sup>, A. Sarkar, and Y. Mei, “Rollout designs in lump-sum data,” minor revision, submitted to Journal of Applied Statistics in February 2024.
+
+
+
 
 
 
