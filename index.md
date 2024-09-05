@@ -36,8 +36,10 @@ I am interested in developing statistical methodology and theory in machine lear
 - **Q. Xu** and Y. Mei, “Asymptotic optimality theory for active quickest detection with unknown post-change parameters,” Sequential Analysis, vol. 42, no. 2, pages 150-181, 2023.
 - E. Fang<sup>#</sup>, Y. Mei<sup>#</sup>, Y. Shi<sup>#</sup>, **Q. Xu<sup>#</sup>**, and T. Zhao<sup>#</sup>, “Pivotal estimation of linear discriminant analysis in high dimensions,” Journal of Machine Learning Research, vol. 24, pages 1-45, 2023.
 - O. Canbek, **Q. Xu**, Y. Mei, N. R. Washburn, and K. E. Kurtis, “Predicting the rheology of limestone calcined clay cements (LC^3): Linking composition and hydration kinetics to yield stress through machine learning,” Cement and Concrete Research, vol.160, 2022.
-- **Q. Xu**, Y. Mei and J. Shi, “Active quickest detection with compensation coefficients,” major revision, submitted to Sequential Analysis in February 2024.
-- **Q. Xu<sup>#</sup>**, H. Tian<sup>#</sup>, A. Sarkar, and Y. Mei, “Rollout designs in lump-sum data,” minor revision, submitted to Journal of Applied Statistics in February 2024.
+- **Q. Xu**, Y. Mei and J. Shi, “Active quickest detection with compensation coefficients,” in major revision, submitted to Sequential Analysis in February 2024.
+- **Q. Xu<sup>#</sup>**, H. Tian<sup>#</sup>, A. Sarkar, and Y. Mei, “Rollout designs in lump-sum data,” in minor revision, submitted to Journal of Applied Statistics in February 2024.
+- **Q. Xu** and Y. Mei, “Optimal Robust Sequential Tests of Circular Nonconforming Probability,” to be submitted to Journal of the American Statistical Association: Applications and Case Studies in October 2024.
+- **Q.Xu<sup>#</sup>**, A. Chaudhuri<sup>#</sup> and Y. Mei, “Asymptotic optimality of detecting unknown correlation change in Gaussian distribution,” to be submitted to IEEE Transactions on Information Theory in October 2024.
 
 
 
