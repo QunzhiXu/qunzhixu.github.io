@@ -60,9 +60,10 @@ I am interested in developing statistical methodology and theory in machine lear
 
 ### Instructor
 
--
+- ISyE 3030 Basic Statistical Methods, 38 students, CIOS score: Inclusive 4.9/5.0, Overall effectiveness 4.6/5.0, Summer 2023.
 
--
+
+- 
 
 
 ### Teaching Assistant
