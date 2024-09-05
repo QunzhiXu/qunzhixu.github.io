@@ -35,6 +35,9 @@ I am interested in developing statistical methodology and theory in machine lear
 _Contrastive Learning on Multimodal Analysis of Electronic Health Records. (2024+)_ [[arXiv](https://arxiv.org/abs/2403.14926)]
 
 - **Q. Xu**, Y. Mei and G. V. Moustakides, “Optimum multi-stream sequential change-point detection with sampling control”, IEEE Transactions on Information Theory, vol. 67, no. 11, pages 7627--7636, 2021.
+- **Q. Xu** and Y. Mei, “Asymptotic optimality theory for active quickest detection with unknown post-change parameters,” Sequential Analysis, vol. 42, no. 2, pages 150-181, 2023.
+- E. Fang<sup>#</sup>, Y. Mei<sup>#</sup>, Y. Shi<sup>#</sup>, **Q. Xu<sup>#</sup>**, and T. Zhao<sup>#</sup>, “Pivotal estimation of linear discriminant analysis in high dimensions,” Journal of Machine Learning Research, vol. 24, pages 1-45, 2023.
+
 
 
 - Liang, J.\*, Liu, Y.\*, **Zhou, D.**, Zhang, S., Lu, J. _The Wreaths of Coherence: Uniform Graph Feature Selection with False Discovery Rate Control. (2024+)_ [[arXiv](https://arxiv.org/abs/2403.12284)]
