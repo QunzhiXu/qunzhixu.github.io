@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Associate in the School of Global Public Health  at [New York University](https://publichealth.nyu.edu/).  I  received a Ph.D in Industrial Engineering with concentration on Statistics 2024 from Georgia Institute of Technology, advised by Prof. Yajun Mei and Prof. Jianjun Shi. Before that, I received my B.S. in Statistics from the University of Science and Technology of China (USTC) in 2019, advised by Prof. Zemin Zheng. 
+I am a Postdoctoral Associate in the School of Global Public Health  at [New York University](https://publichealth.nyu.edu/).  I  received a Ph.D in Industrial Engineering with concentration on Statistics 2024 from Georgia Institute of Technology, advised by Prof. [Yajun Mei](https://sites.gatech.edu/yajun-mei/) and Prof. [Jianjun Shi](https://sites.gatech.edu/jianjun-shi/). Before that, I received my B.S. in Statistics from the University of Science and Technology of China (USTC) in 2019, advised by Prof. Zemin Zheng. 
 
 **I am on the 2024-2025 academic job market and would be happy to discuss any opportunities!**
 
@@ -12,17 +12,16 @@ I am a Postdoctoral Associate in the School of Global Public Health  at [New Yor
 
 ## Research Interests
 
-I am interested in developing statistical methodology and theory for electronic health records (EHR) data analysis. I'm also developing practical tools for analyzing high-dimensional and non-Euclidean data. I mainly work on representation learning, federated learning, transfer learning, reinforcement learning, network analysis, graph neural networks, large language models, and high-dimensional statistics. Recently, I am interested in:
-
-- Multimodal and multi-institutional representation learning for data harmonization and knowledge graph integration.
-- Federated reinforcement learning for precision medicine.
-- Transfer learning of heterogeneous domains.
-- Graph-based and rank-based methods for high-dimensional hypothesis testing.
+I am interested in developing statistical methodology and theory in machine learning and statistics for streaming data, particularly in active/reinforcement/transfer learning and change-point problems, and their application in Engineering and Biomedical Science.  
 
 ## Selected Awards 
-- <ins> 2023 Program in Quantitative Genomics Student/Postdoc Travel Award, Harvard
-- <ins> 2022 ICSA Student Poster Award 
-- <ins> 2022 Student Paper Award, Statistical Learning and Data Science Section, ASA
+- <ins> Best Poster Award, the 8th Workshop on Biostatistics and Bioinformatics, May 2023.
+- <ins> Travel Award, Third Annual Data Science Workshop in Augusta University, March 2023. 
+- <ins> Best Poster Presentation and People’ Choice for Best Poster Presentation, Second Annual Data Science Workshop in Augusta University, October 2021.
+- <ins> M.H. Stewart Fellowship, Georgia Institute of Technology, Fall 2019.
+- <ins> Guo. M. Scholarship, University of Science and Technology of China, April 2019.
+
+
 
 ## Publications and Preprints
 
