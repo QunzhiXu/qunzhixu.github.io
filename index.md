@@ -25,9 +25,9 @@ I am interested in developing statistical methodology and theory in machine lear
 
 ## Publications and Preprints
 
-<div style="font-size: 10px;">*: contributed equally </div>
+<div style="font-size: 15px;">*: contributed equally </div>
 
-<div style="font-size: 10px;">#: alphabetic order </div>
+<div style="font-size: 15px;">#: alphabetic order </div>
 
 ### Journal Articles
 
