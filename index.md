@@ -38,8 +38,8 @@ I am interested in developing statistical methodology and theory in machine lear
 - O. Canbek, **Q. Xu**, Y. Mei, N. R. Washburn, and K. E. Kurtis, “Predicting the rheology of limestone calcined clay cements (LC^3): Linking composition and hydration kinetics to yield stress through machine learning,” Cement and Concrete Research, vol.160, 2022.
 - **Q. Xu**, Y. Mei and J. Shi, “Active quickest detection with compensation coefficients,” in major revision, submitted to Sequential Analysis in February 2024.
 - **Q. Xu<sup>#</sup>**, H. Tian<sup>#</sup>, A. Sarkar, and Y. Mei, “Rollout designs in lump-sum data,” in minor revision, submitted to Journal of Applied Statistics in February 2024.
-- **Q. Xu** and Y. Mei, “Optimal Robust Sequential Tests of Circular Nonconforming Probability,” to be submitted to Journal of the American Statistical Association: Applications and Case Studies in October 2024.
-- **Q.Xu<sup>#</sup>**, A. Chaudhuri<sup>#</sup> and Y. Mei, “Asymptotic optimality of detecting unknown correlation change in Gaussian distribution,” to be submitted to IEEE Transactions on Information Theory in October 2024.
+- **Q. Xu** and Y. Mei, “Optimal Robust Sequential Tests of Circular Nonconforming Probability,” submitted to Statistica Sinica in October 2024.
+- **Q.Xu<sup>#</sup>**, A. Chaudhuri<sup>#</sup> and Y. Mei, “Asymptotic optimality of detecting unknown correlation change in Gaussian distribution,” to be submitted to IEEE Transactions on Information Theory in Nov 2024.
 
 
 ### Conference Papers
