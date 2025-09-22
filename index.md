@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Postdoctoral Associate in the School of Global Public Health  at [New York University](https://publichealth.nyu.edu/).  I  received a Ph.D in Industrial Engineering with concentration on Statistics 2024 from Georgia Institute of Technology, advised by Prof. [Yajun Mei](https://sites.gatech.edu/yajun-mei/) and Prof. [Jianjun Shi](https://sites.gatech.edu/jianjun-shi/). Before that, I received my B.S. in Statistics from the University of Science and Technology of China (USTC) in 2019, advised by Prof. Zemin Zheng. 
 
-**I am on the 2024-2025 academic job market and would be happy to discuss any opportunities!**
+
 
 
 
@@ -15,6 +15,9 @@ I am a Postdoctoral Associate in the School of Global Public Health  at [New Yor
 I am interested in developing statistical methodology and theory in machine learning and statistics for streaming data, particularly in active/reinforcement/transfer learning and change-point problems, and their application in Engineering and Biomedical Science.  
 
 ## Selected Awards 
+
+- <ins> Travel Award, the 2025 ICSA Applied Statistics Symposium, University of Connecticut, June 2025.
+- <ins> Travel Award, Duke & Chen Institute Joint Boot Camp for AI & AI Accelerated Medical Research, Duke University, May 2025.
 - <ins> Best Poster Award, the 8th Workshop on Biostatistics and Bioinformatics, May 2023.
 - <ins> Travel Award, Third Annual Data Science Workshop in Augusta University, March 2023. 
 - <ins> Best Poster Presentation and People’ Choice for Best Poster Presentation, Second Annual Data Science Workshop in Augusta University, October 2021.
@@ -31,6 +34,7 @@ I am interested in developing statistical methodology and theory in machine lear
 
 ### Journal Articles
 
+- **Q. Xu** and Y. Mei, “Optimal robust sequential tests of circular nonconforming probability,” accepted by Statistica Sinica in September 2025.
 - **Q. Xu**, Y. Mei and J. Shi, “Active quickest detection with compensation coefficients,” accepted by Sequential Analysis in December 2024.
 - **Q. Xu<sup>#</sup>**, H. Tian<sup>#</sup>, A. Sarkar, and Y. Mei, “Rollout designs in lump-sum data,” accepted by Journal of Applied Statistics in November 2024.
 - **Q. Xu**, Y. Mei and G. V. Moustakides, “Optimum multi-stream sequential change-point detection with sampling control”, IEEE Transactions on Information Theory, vol. 67, no. 11, pages 7627--7636, 2021.
