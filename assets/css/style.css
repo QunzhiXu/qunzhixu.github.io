@@ -1,0 +1,325 @@
+/* Qunzhi Xu — personal site. Plain CSS, no build step. */
+
+:root {
+  --bg: #fbfaf7;
+  --bg-elev: #ffffff;
+  --fg: #1f2328;
+  --fg-muted: #5d6771;
+  --line: #e5e2db;
+  --accent: #0f6e8c;
+  --accent-soft: #e4f0f4;
+  --max: 1120px;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14171a;
+    --bg-elev: #1c2126;
+    --fg: #e7e9ec;
+    --fg-muted: #9ba5af;
+    --line: #2c333b;
+    --accent: #63c3dd;
+    --accent-soft: #163039;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--sans);
+  font-size: 16.5px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+p { margin: 0 0 1em; }
+
+/* Layout ----------------------------------------------------------- */
+
+.layout {
+  display: grid;
+  grid-template-columns: 272px minmax(0, 1fr);
+  gap: 72px;
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 56px 32px 72px;
+}
+
+.sidebar {
+  position: sticky;
+  top: 36px;
+  align-self: start;
+}
+
+.photo {
+  display: block;
+  width: 100%;
+  max-width: 232px;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 16px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06), 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.name {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.15;
+  margin: 22px 0 6px;
+  letter-spacing: 0.1px;
+}
+
+.role {
+  color: var(--fg-muted);
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 0 0 18px;
+}
+
+.role a { color: inherit; }
+
+.links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+}
+
+.links li { margin: 0 0 6px; }
+
+.links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  color: var(--fg);
+}
+
+.links a:hover { color: var(--accent); }
+
+.links svg {
+  width: 17px;
+  height: 17px;
+  flex: none;
+  stroke: var(--accent);
+  fill: none;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.toc {
+  margin-top: 26px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.toc a {
+  display: block;
+  padding: 3px 0;
+  font-size: 14.5px;
+  color: var(--fg-muted);
+}
+
+.toc a:hover { color: var(--accent); text-decoration: none; }
+
+/* Content ---------------------------------------------------------- */
+
+.content { min-width: 0; }
+
+section { margin-bottom: 52px; scroll-margin-top: 32px; }
+
+h2 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 23px;
+  margin: 0 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+
+h3 {
+  font-size: 13.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+  margin: 28px 0 12px;
+}
+
+h3:first-of-type { margin-top: 0; }
+
+.lead { font-size: 17.5px; }
+
+.topic {
+  padding: 14px 18px 12px;
+  margin-bottom: 14px;
+  background: var(--bg-elev);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 10px 10px 0;
+}
+
+.topic h4 {
+  margin: 0 0 6px;
+  font-size: 16.5px;
+  font-weight: 600;
+}
+
+.topic p { margin: 0; color: var(--fg-muted); font-size: 15.5px; }
+
+.topic p:last-child { margin-top: 6px; }
+
+/* Publications */
+
+.note { color: var(--fg-muted); font-size: 14px; margin-bottom: 14px; }
+
+.pubs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pub {
+  margin: 0 0 16px;
+  padding-left: 18px;
+  position: relative;
+}
+
+.pub::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 11px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  opacity: 0.7;
+}
+
+.pub .title { font-weight: 600; }
+.pub .authors { display: block; color: var(--fg-muted); font-size: 15px; }
+.pub .venue { display: block; font-size: 15px; }
+.pub .venue em { font-style: italic; }
+.pub .me { font-weight: 600; color: var(--fg); }
+
+.tags { display: inline-flex; gap: 6px; margin-left: 6px; vertical-align: 1px; }
+
+.tags a {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.tags a:hover { text-decoration: none; filter: brightness(0.95); }
+
+/* Awards / teaching */
+
+.timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.timeline li {
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  gap: 14px;
+  padding: 7px 0;
+  border-bottom: 1px dashed var(--line);
+}
+
+.timeline li:last-child { border-bottom: 0; }
+
+.timeline .year {
+  color: var(--fg-muted);
+  font-variant-numeric: tabular-nums;
+  font-size: 15px;
+  padding-top: 1px;
+}
+
+.timeline .what { font-size: 15.5px; }
+.timeline .where { color: var(--fg-muted); }
+
+.plain { padding-left: 20px; margin: 0; }
+.plain li { margin-bottom: 6px; font-size: 15.5px; }
+
+.cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 32px;
+}
+
+.cols h3 { margin-top: 0; }
+
+footer {
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+  color: var(--fg-muted);
+  font-size: 13.5px;
+}
+
+/* Responsive ------------------------------------------------------- */
+
+@media (max-height: 760px) {
+  .sidebar { position: static; }
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+    gap: 36px;
+    padding: 32px 20px 56px;
+  }
+
+  .sidebar { position: static; }
+
+  .sidebar .top {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .photo { width: 112px; max-width: none; border-radius: 12px; }
+
+  .name { margin-top: 0; font-size: 26px; }
+
+  .role { margin-bottom: 0; }
+
+  .links { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 6px 18px; }
+
+  .toc { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+
+  .cols { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 480px) {
+  .photo { width: 92px; }
+  .name { font-size: 23px; }
+  .timeline li { grid-template-columns: 48px 1fr; gap: 10px; }
+}
+
+@media print {
+  .sidebar { position: static; }
+  .toc { display: none; }
+  a { color: inherit; }
+}
