@@ -6,7 +6,7 @@ Plain static site, no build step:
 
 - `index.html` — all content (about, research, publications, awards, teaching, service)
 - `assets/css/style.css` — styling, including dark mode and the mobile layout
-- `assets/img/profile.jpg` — portrait; `assets/files/curriculum_vitae.pdf` — CV
+- `assets/img/profile.jpg` — portrait
 - `.nojekyll` — tells GitHub Pages to serve the files as they are
 
 Preview locally:
